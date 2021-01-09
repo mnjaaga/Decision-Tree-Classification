@@ -11,3 +11,4 @@ The following questions are answered using the data(csv) attached.
 7. Predict with your model
 8. Create a confusion matrix using pd.crosstab
 9. Print a classification report 
+
