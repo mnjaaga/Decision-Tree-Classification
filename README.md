@@ -1,6 +1,6 @@
 # Decision-Tree-Classification
 
-The following questions are answered using the data(heart disease) attached.
+The following questions are answered using the data(csv) attached.
 
 1. Load the data into Python 
 2. Select the features and the target. 
