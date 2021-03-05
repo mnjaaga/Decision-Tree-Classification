@@ -12,4 +12,4 @@ The following questions are answered using the data(csv) attached.
 8. Create a confusion matrix using pd.crosstab
 9. Print a classification report 
 
-##Titanic data Decision Tree
+#Titanic data Decision Tree
